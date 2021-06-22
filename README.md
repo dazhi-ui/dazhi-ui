@@ -22,13 +22,16 @@ Here are some ideas to get you started:
 
 𝗜'𝗺 [dazhi-ui](https://github.com/dazhi-ui)！𝗜'𝗺 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁  𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
-[![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaronhuang@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](2630157466@qq.com)
 
 ###  About
 
--  BLOG:  https://blog.csdn.net/Thefreelittle?spm=1001.2101.3001.5343&type=blog
+-  CSDN BLOG:  https://blog.csdn.net/Thefreelittle?spm=1001.2101.3001.5343&type=blog
+-  Blog Garden:  https://www.cnblogs.com/dazhi151/
 -  EMAIL: 2630157466@qq.com
 -  I’m currently a SE student at Shijiazhuang Tiedao University.
+-  I love programming
+-  Now focus on postgraduate examination,I believe I can go to my favorite school
 -  How to reach me: [Gmail](2630157466@qq.com)
 
 
